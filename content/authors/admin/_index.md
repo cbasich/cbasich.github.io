@@ -24,7 +24,7 @@ education:
     - course: M.S. in Computer Science
       institution: University of Massachusetts Amherst
       year: 2020
-    - course: B.A. in Mathematics and Computer Science
+    - course: B.A. in Math and Computer Science
       institution: Washington University in St. Louis
       year: 2017
 email: cbasich@cs.umass.edu
