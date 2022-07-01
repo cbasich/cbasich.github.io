@@ -1,87 +1,48 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "Planning with Intermittent State Observability: Knowing When to Act Blind"
+publication_types:
+  - "1"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+  - Connor Basich
+  - John Peterson
+  - Shlomo Zilberstein
+publication_short: In IROS 2022.
+abstract: Contemporary planning models and methods often rely on constant
+  availability of free state information at each step of execution. However,
+  autonomous systems are increasingly deployed in the open world where state
+  information may be costly or simply unavailable in certain situations. Failing
+  to account for sensor limitations may lead to costly behavior or even
+  catastrophic failure. While the \emph{partially observable Markov decision
+  process} (POMDP) can be used to model this problem, solving POMDPs is often
+  intractable. We propose a novel planning model called a \emph{semi-observable
+  Markov decision process} (SOMDP) specifically designed for Markov decision
+  processes where state observability may be intermittent.  We propose an
+  approach for solving SOMDPs that uses \emph{memory states} to proactively plan
+  for the potential loss of sensor information while exploiting the unique
+  structure of SOMDPs. We provide several theoretical results for this model and
+  demonstrate empirically the efficiency of our approach relative to planning
+  with existing models.
+draft: false
+featured: false
 tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+slides: ""
+url_pdf: ""
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: ""
+publication: In International Conference on Intelligent Robots and Systems (IROS). 2022.
+projects: []
+date: 2022-07-01T14:35:46.702Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
