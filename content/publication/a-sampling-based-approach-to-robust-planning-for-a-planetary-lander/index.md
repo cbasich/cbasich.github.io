@@ -5,7 +5,6 @@ publication_types:
 authors:
   - Connor Basich
   - Joseph Russino
-  - Steve Chien
   - Shlomo Zilberstein
 publication: In International Conference on Intelligent Robots and Systems (IROS). 2022.
 publication_short: In IROS 2022.
