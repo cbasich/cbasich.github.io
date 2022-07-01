@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Connor Basich
   - John Peterson
-  - Shlomo Zilberstein
+  - and Shlomo Zilberstein
 publication_short: In IROS 2022.
 abstract: Contemporary planning models and methods often rely on constant
   availability of free state information at each step of execution. However,
@@ -42,7 +42,7 @@ publication: In International Conference on Intelligent Robots and Systems (IROS
 projects: []
 date: 2022-07-01T14:35:46.702Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
