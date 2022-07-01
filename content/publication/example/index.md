@@ -12,16 +12,15 @@ abstract: Contemporary planning models and methods often rely on constant
   autonomous systems are increasingly deployed in the open world where state
   information may be costly or simply unavailable in certain situations. Failing
   to account for sensor limitations may lead to costly behavior or even
-  catastrophic failure. While the \emph{partially observable Markov decision
-  process} (POMDP) can be used to model this problem, solving POMDPs is often
-  intractable. We propose a novel planning model called a \emph{semi-observable
-  Markov decision process} (SOMDP) specifically designed for Markov decision
-  processes where state observability may be intermittent.  We propose an
-  approach for solving SOMDPs that uses \emph{memory states} to proactively plan
-  for the potential loss of sensor information while exploiting the unique
-  structure of SOMDPs. We provide several theoretical results for this model and
-  demonstrate empirically the efficiency of our approach relative to planning
-  with existing models.
+  catastrophic failure. While the partially observable Markov decision process}
+  (POMDP) can be used to model this problem, solving POMDPs is often
+  intractable. We propose a novel planning model called a semi-observable Markov
+  decision process (SOMDP) specifically designed for Markov decision processes
+  where state observability may be intermittent.  We propose an approach for
+  solving SOMDPs that uses memory states to proactively plan for the potential
+  loss of sensor information while exploiting the unique structure of SOMDPs. We
+  provide several theoretical results for this model and demonstrate empirically
+  the efficiency of our approach relative to planning with existing models.
 draft: false
 featured: false
 tags: []
