@@ -7,6 +7,7 @@ interests:
   - Artificial Intelligence
   - Robotics
   - Reinforcement Learning
+  - Safe Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,6 +22,9 @@ organizations:
   - name: University of Massachusetts Amherst
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: University of Massachusetts Amherst
+      year: Spring 2023 (Ant.)
     - course: M.S. in Computer Science
       institution: University of Massachusetts Amherst
       year: 2020
