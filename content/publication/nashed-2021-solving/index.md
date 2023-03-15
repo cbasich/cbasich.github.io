@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Solving Markov decision processes with partial state abstractions
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/nashed-2021-solving.pdf" "newtab" >}}here{{< /staticref >}}.'
+subtitle: ''
 summary: ''
 authors:
 - Samer B Nashed

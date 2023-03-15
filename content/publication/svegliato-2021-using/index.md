@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Using Metareasoning to Maintain and Restore Safety for Reliably Autonomy
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/svegliato-2021-using.pdf" "newtab" >}}here{{< /staticref >}}.'
+subtitle: ''
 summary: ''
 authors:
 - Justin Svegliato

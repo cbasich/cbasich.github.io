@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Learning to Optimize Autonomy in Competence-Aware Systems
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/basich-2020-learning.pdf" "newtab" >}}here{{< /staticref >}}.'
+subtitle: ''
 summary: ''
 authors:
 - Connor Basich

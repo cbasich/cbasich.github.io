@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Planning with Inconsistent Sensors: Knowing When to Act Blind'
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/basich-2021-planning.pdf" "newtab" >}}here{{< /staticref >}}.'
+title: Planning with Inconsistent Sensors: Knowing When to Act Blind
+subtitle: ''
 summary: ''
 authors:
 - Connor Basich

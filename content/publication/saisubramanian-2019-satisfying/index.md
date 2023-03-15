@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Satisfying Social Preferences in Ridesharing Services
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/saisubramanian-2019-satisfying.pdf" "newtab" >}}here{{< /staticref >}}.'
+subtitle: ''
 summary: ''
 authors:
 - Sandhya Saisubramanian

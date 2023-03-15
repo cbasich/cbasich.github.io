@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: The Value of Incorporating Social Preferences in Dynamic Ridesharing
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/saisubramanian-2019-value.pdf" "newtab" >}}here{{< /staticref >}}.'
+subtitle: ''
 summary: ''
 authors:
 - Sandhya Saisubramanian

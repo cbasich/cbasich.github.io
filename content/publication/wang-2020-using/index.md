@@ -1,9 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Using Flexible Execution, Replanning, and Model Parameter Updates to Address
-  Environmental Uncertainty for a Planetary Lander
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/basich-2020-using.pdf" "newtab" >}}here{{< /staticref >}}.'
+title: Using Flexible Execution, Replanning, and Model Parameter Updates to Address Environmental Uncertainty for a Planetary Lander
+subtitle: ''
 summary: ''
 authors:
 - Daniel Wang

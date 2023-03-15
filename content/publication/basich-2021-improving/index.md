@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Improving Competence via Iterative State Space Refinement
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/basich-2021-improving.pdf" "newtab" >}}here{{< /staticref >}}.'
+subtitle: ''
 summary: ''
 authors:
 - Connor Basich

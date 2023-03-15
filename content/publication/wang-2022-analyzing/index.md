@@ -1,9 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Analyzing the efficacy of flexible execution, replanning, and plan optimization
-  for a planetary lander
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/wang-2022-analyzing.pdf" "newtab" >}}here{{< /staticref >}}.'
+title: Analyzing the efficacy of flexible execution, replanning, and plan optimization for a planetary lander
+subtitle: ''
 summary: ''
 authors:
 - Daniel Wang

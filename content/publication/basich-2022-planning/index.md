@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Planning with Intermittent State Observability: Knowing When to Act Blind'
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/basich-2022-planning.pdf" "newtab" >}}here{{< /staticref >}}.'
+subtitle: ''
 summary: ''
 authors:
 - Connor Basich

@@ -3,7 +3,7 @@
 
 title: A sampling-based optimization approach to handling environmental uncertainty
   for a planetary lander
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/basich-2021-sampling.pdf" "newtab" >}}here{{< /staticref >}}.'
+subtitle: ''
 summary: ''
 authors:
 - Connor Basich

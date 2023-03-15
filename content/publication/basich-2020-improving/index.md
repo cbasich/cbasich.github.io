@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Improving Competence for Reliable Autonomy
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/basich-2020-improving.pdf" "newtab" >}}here{{< /staticref >}}.'
+subtitle: ''
 summary: ''
 authors:
 - Connor Basich

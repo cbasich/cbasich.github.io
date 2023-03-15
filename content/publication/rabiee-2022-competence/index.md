@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Competence-Aware Path Planning Via Introspective Perception
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/rabiee-2022-competence.pdf" "newtab" >}}here{{< /staticref >}}.'
+subtitle: ''
 summary: ''
 authors:
 - Sadegh Rabiee

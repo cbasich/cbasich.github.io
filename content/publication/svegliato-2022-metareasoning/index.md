@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Metareasoning for Safe Decision Making in Autonomous Systems
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/basich-2022-metareasoning.pdf" "newtab" >}}here{{< /staticref >}}.'
+subtitle: ''
 summary: ''
 authors:
 - Justin Svegliato

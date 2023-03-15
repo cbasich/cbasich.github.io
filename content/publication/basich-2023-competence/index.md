@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Competence-Aware Systems
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/basich-2023-competence.pdf" "newtab" >}}here{{< /staticref >}}.'
+subtitle: ''
 summary: ''
 authors:
   - Connor Basich
