@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Competence-Aware Systems for Long-Term Autonomy
-subtitle:  Download {{< staticref "uploads/basich-2020-competence.pdf" "newtab" >}}here{{< /staticref >}}.
+subtitle:  'Download {{< staticref "uploads/basich-2020-competence.pdf" "newtab" >}}here{{< /staticref >}}.'
 summary: ''
 authors:
 - Connor Basich
