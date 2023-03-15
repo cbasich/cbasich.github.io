@@ -38,6 +38,6 @@ highlight_name: true
 I am a 6th year PhD student at the University of Massachusetts Amherst in the Resource-Bounded Reasoning Lab advised by Dr. Shlomo Zilberstein.
 
 ---
-I work on in the areas of planning under uncertainty and stochastic decision making for autonomous agents. My work has focused on designing and analyzing models that lie in the intersection of model-based planning and online learning with the goal of enabling the deployment of robust robotic systems for long-term autonomous decision-making in the open world.
+I work in the areas of planning under uncertainty and stochastic decision making for autonomous agents. My work has focused on designing and analyzing models that lie in the intersection of model-based planning and online learning with the goal of enabling the deployment of robust robotic systems for long-term autonomous decision-making in the open world.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
