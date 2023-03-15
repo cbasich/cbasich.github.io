@@ -3,7 +3,7 @@
 
 title: Competence-Aware Systems for Long-Term Autonomy
 subtitle: ''
-summary: {{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/basich-2020-competence.pdf" "newtab" >}}here{{< /staticref >}}.
+summary: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/basich-2020-competence.pdf" "newtab" >}}here{{< /staticref >}}.'
 authors:
 - Connor Basich
 tags: []
