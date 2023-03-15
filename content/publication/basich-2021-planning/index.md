@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Planning with Inconsistent Sensors: Knowing When to Act Blind
+title: 'Planning with Inconsistent Sensors: Knowing When to Act Blind'
 subtitle: ''
 summary: ''
 authors:
