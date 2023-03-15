@@ -2,10 +2,10 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: A Sampling Based Approach to Robust Planning for a Planetary Lander
-subtitle: '{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/basich-2022-sampling.pdf" "newtab" >}}here{{< /staticref >}}.'
+subtitle: Download < staticref "uploads/basich-2022-sampling.pdf" "newtab" >here< /staticref >.
 summary: ''
 authors:
-- 'Connor Basich'
+- Connor Basich
 - Joseph A Russino
 - Steve Chien
 - Shlomo Zilberstein
