@@ -1,13 +1,13 @@
 ---
 title: Connor Basich
-role: PhD Student
-bio: My research interests include decision making under uncertainty, safe and
-  robust AI, and long-term autonomy.
-interests:
-  - Artificial Intelligence
-  - Robotics
-  - Reinforcement Learning
-  - Safe Artificial Intelligence
+role: Research Assistant and PhD Student
+# bio: My research interests include decision making under uncertainty, safe and
+#   robust AI, and long-term autonomy.
+# interests:
+#   - Artificial Intelligence
+#   - Robotics
+#   - Reinforcement Learning
+#   - Safe Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,6 +35,9 @@ email: cbasich@cs.umass.edu
 superuser: true
 highlight_name: true
 ---
-I am currently a 6th year PhD student at the University of Massachusetts Amherst in the Resource-Bounded Reasoning Lab advised by Dr. Shlomo Zilberstein. My general research interests include, but are not limited to, probabilistic planning, decision making under uncertainty, safe and robust artificial intelligence, and reinforcement learning.
+I am a 6th year PhD student at the University of Massachusetts Amherst in the Resource-Bounded Reasoning Lab advised by Dr. Shlomo Zilberstein.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+---
+I work on in the areas of planning under uncertainty and stochastic decision making for autonomous agents. My work has focused on designing and analyzing models that lie in the intersection of model-based planning and online learning with the goal of enabling the deployment of robust robotic systems for long-term autonomous decision-making in the open world.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
