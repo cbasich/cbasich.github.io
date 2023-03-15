@@ -2,10 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Competence-Aware Systems for Long-Term Autonomy
-
-{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/basich-2020-competence.pdf" "newtab" >}}here{{< /staticref >}}.
 subtitle: ''
-summary: ''
+summary: {{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/basich-2020-competence.pdf" "newtab" >}}here{{< /staticref >}}.
 authors:
 - Connor Basich
 tags: []
