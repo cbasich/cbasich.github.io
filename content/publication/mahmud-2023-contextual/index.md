@@ -6,7 +6,7 @@ subtitle:  ''
 summary: ''
 authors:
 - Saaduddin Mahmud*
-- Connor Basich*
+- Connor Basic*h
 - and Shlomo Zilberstein
 tags: []
 categories: []
