@@ -8,9 +8,9 @@ authors:
 - Connor Basich
 - Justin Svegliato
 - Allyson Beach
-- Kyle H Wray
+- Kyle Hollins Wray
 - Stefan Witwicki
-- Shlomo Zilberstein
+- and Shlomo Zilberstein
 tags: []
 categories: []
 date: '2021-01-01'

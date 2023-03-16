@@ -8,8 +8,8 @@ authors:
 - Connor Basich
 - Justin Svegliato
 - Kyle Hollins Wray
-- Stefan J Witwicki
-- Shlomo Zilberstein
+- Stefan Witwicki
+- and Shlomo Zilberstein
 tags: []
 categories: []
 date: '2020-01-01'

@@ -10,7 +10,7 @@ authors:
 - Kyle Hollins Wray
 - Stefan Witwicki
 - Joydeep Biswas
-- Shlomo Zilberstein
+- and Shlomo Zilberstein
 tags: []
 categories: []
 date: '2020-01-01'

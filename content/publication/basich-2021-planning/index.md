@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Connor Basich
-- John R Peterson
-- Shlomo Zilberstein
+- John R. Peterson
+- and Shlomo Zilberstein
 tags: []
 categories: []
 date: '2021-01-01'

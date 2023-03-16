@@ -8,7 +8,7 @@ authors:
 - Connor Basich
 - Kyle Hollins Wray
 - Stefan Witwicki
-- Shlomo Zilberstein
+- and Shlomo Zilberstein
 tags: []
 categories: []
 date: '2022-04-01'

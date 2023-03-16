@@ -8,7 +8,7 @@ authors:
 - Sandhya Saisubramanian
 - Connor Basich
 - Shlomo Zilberstein
-- Claudia V Goldman
+- and Claudia V. Goldman
 tags: []
 categories: []
 date: '2019-01-01'

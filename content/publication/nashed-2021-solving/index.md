@@ -5,12 +5,12 @@ title: Solving Markov decision processes with partial state abstractions
 subtitle: ''
 summary: ''
 authors:
-- Samer B Nashed
+- Samer B. Nashed
 - Justin Svegliato
 - Matteo Brucato
 - Connor Basich
 - Rod Grupen
-- Shlomo Zilberstein
+- and Shlomo Zilberstein
 tags: []
 categories: []
 date: '2021-01-01'

@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Daniel Wang
-- Joseph A Russino
+- Joseph A. Russino
 - Connor Basich
-- Steve Chien
+- and Steve Chien
 tags: []
 categories: []
 date: '2022-01-01'

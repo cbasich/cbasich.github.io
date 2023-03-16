@@ -7,7 +7,7 @@ summary: ''
 authors:
   - Connor Basich
   - Justin Svegliato
-  - Kyle H. Wray
+  - Kyle Hollins Wray
   - Stefan Witwicki
   - Joydeep Biswas
   - and Shlomo Zilberstein

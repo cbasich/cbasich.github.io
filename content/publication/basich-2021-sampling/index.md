@@ -8,9 +8,9 @@ summary: ''
 authors:
 - Connor Basich
 - Daniel Wang
-- Joseph A Russino
+- Joseph A. Russino
 - Steve Chien
-- Shlomo Zilberstein
+- and Shlomo Zilberstein
 tags: []
 categories: []
 date: '2021-01-01'

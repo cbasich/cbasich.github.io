@@ -8,7 +8,7 @@ authors:
 - Connor Basich
 - Joseph A Russino
 - Steve Chien
-- Shlomo Zilberstein
+- and Shlomo Zilberstein
 tags: []
 categories: []
 date: '2022-01-01'

@@ -8,7 +8,7 @@ authors:
 - Justin Svegliato
 - Connor Basich
 - Sandhya Saisubramanian
-- Shlomo Zilberstein
+- and Shlomo Zilberstein
 tags: []
 categories: []
 date: '2021-01-01'

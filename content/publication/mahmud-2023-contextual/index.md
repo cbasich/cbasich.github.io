@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Saaduddin Mahmud*
 - Connor Basich*
-- Shlomo Zilberstein
+- and Shlomo Zilberstein
 tags: []
 categories: []
 date: '2023-01-01'

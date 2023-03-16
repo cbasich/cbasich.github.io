@@ -9,7 +9,7 @@ authors:
 - Connor Basich
 - Kyle Hollins Wray
 - Shlomo Zilberstein
-- Joydeep Biswas
+- and Joydeep Biswas
 tags: []
 categories: []
 date: '2022-01-01'
