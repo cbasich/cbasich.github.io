@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Home # Website name
-baseURL: 'cbasich.netlify.app' # Website URL
+baseURL: 'www.connorbasich.com' # Website URL
 
 ############################
 ## LANGUAGE
