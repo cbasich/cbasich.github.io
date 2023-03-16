@@ -5,8 +5,8 @@ title: Semi-Autonomous Systems with Contexual Competence Awareness
 subtitle:  ''
 summary: ''
 authors:
-- Saaduddin Mahmud*
-- Connor Basic*h
+- Connor Basich
+- Saaduddin Mahmud
 - and Shlomo Zilberstein
 tags: []
 categories: []
